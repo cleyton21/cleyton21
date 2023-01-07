@@ -1,4 +1,4 @@
-### Olá, eu sou o Cleyton Fernando, programador web fullstack e Administrador de redes Lunux 👋
+### Olá, eu sou o Cleyton Fernando, programador web fullstack 👋
 
 - 🔭 Atualmente trabalho com Backend
 - 🌱 Estou estudando Laravel
