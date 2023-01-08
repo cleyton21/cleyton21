@@ -1,8 +1,8 @@
 ### Olá, eu sou o Cleyton Fernando, programador web fullstack 👋
 
-- 🔭 Atualmente trabalho com Backend
-- 🌱 Estou estudando Laravel
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente trabalho com Backend, sou dev, autodidata e amante de novas tecnologias. Atualmente estudando Laravel.
+- 🌱 Trabalho há 10 anos com tecnologia, desenvolvendo soluções para as mais deiversas situações.
+- 😄 Em busca de conhecimento e novos desafios.
 
 <div align="center">
   <a href="https://github.com/cleyton21">
