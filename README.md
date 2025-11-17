@@ -1,8 +1,8 @@
 ### Olá, eu sou o Cleyton Fernando, programador web fullstack 👋
 
-- 🔭 Atualmente trabalho com Backend, sou dev, autodidata, apaixonado por software livre e amante de novas tecnologias. Atualmente estudando PHP, Laravel, vue.js.
-- 🌱 Trabalho há 10 anos com tecnologia, desenvolvendo soluções para as mais diversas situações.
-- 😄 Em busca de conhecimento e novos desafios.
+- 🔭 Trabalho com Backend, sou dev autodidata, apaixonado por software livre e sempre ligado em novas tecnologias. Atuo com PHP, Laravel, Vue.js, Java, Spring Boot e Angular.
+- 🌱 Tenho 10 anos de experiência desenvolvendo soluções para diversos cenários.
+- 😄 Sempre buscando conhecimento e novos desafios.
 
 <div align="center">
   <a href="https://github.com/cleyton21">
